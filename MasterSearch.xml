@@ -1,0 +1,646 @@
+<Data>
+  <LocalBody text="GRAM PANCHAYAT" value="1 "/>
+  <LocalBody text="ZILLA PARISHAD" value="2 "/>
+  <LocalBody text="PANCHAYAT SAMITI" value="3 "/>
+  <LocalBody text="MUNCIPAL COUNCIL" value="4 "/>
+  <LocalBody text="MUNICIPAL CORPORATION" value="5 "/>
+  <LocalBody text="NAGAR PANCHAYAT" value="6 "/>
+  <Division text="Amravati " value="2 "/>
+  <Division text="Aurangabad " value="3 "/>
+  <Division text="Konkan" value="6 "/>
+  <Division text="Nagpur " value="4 "/>
+  <Division text="Nashik " value="1 "/>
+  <Division text="Pune " value="5 "/>
+  <District division="5" text="Kolhapur " value="530 "/>
+  <District division="5" text="Pune " value="521 "/>
+  <District division="5" text="Sangli " value="531 "/>
+  <District division="5" text="Satara " value="527 "/>
+  <District division="5" text="Solapur " value="526 "/>
+  <District division="6" text="Mumbai City " value="519 "/>
+  <District division="6" text="Mumbai Suburban " value="518 "/>
+  <District division="6" text="Palghar " value="990 "/>
+  <District division="6" text="Raigarh " value="520 "/>
+  <District division="6" text="Ratnagiri " value="528 "/>
+  <District division="6" text="Sindhudurg " value="529 "/>
+  <District division="6" text="Thane " value="517 "/>
+  <Division text="Amravati " value="2 "/>
+  <Division text="Aurangabad " value="3 "/>
+  <Division text="Konkan" value="6 "/>
+  <Division text="Nagpur " value="4 "/>
+  <Division text="Nashik " value="1 "/>
+  <Division text="Pune " value="5 "/>
+  <District division="4" text="Bhandara " value="506 "/>
+  <District division="4" text="Chandrapur " value="509 "/>
+  <District division="4" text="Gadchiroli " value="508 "/>
+  <District division="4" text="Gondiya " value="507 "/>
+  <District division="4" text="Nagpur " value="505 "/>
+  <District division="4" text="Wardha " value="504 "/>
+  <Division text="Amravati " value="2 "/>
+  <Division text="Aurangabad " value="3 "/>
+  <Division text="Konkan" value="6 "/>
+  <Division text="Nagpur " value="4 "/>
+  <Division text="Nashik " value="1 "/>
+  <Division text="Pune " value="5 "/>
+  <District division="1" text="Ahmednagar " value="522 "/>
+  <District division="1" text="Dhule " value="498 "/>
+  <District division="1" text="Jalgaon " value="499 "/>
+  <District division="1" text="Nandurbar " value="497 "/>
+  <District division="1" text="Nashik " value="516 "/>
+  <Division text="Amravati " value="2 "/>
+  <Division text="Aurangabad " value="3 "/>
+  <Division text="Konkan" value="6 "/>
+  <Division text="Nagpur " value="4 "/>
+  <Division text="Nashik " value="1 "/>
+  <Division text="Pune " value="5 "/>
+  <Division text="Amravati " value="2 "/>
+  <Division text="Aurangabad " value="3 "/>
+  <Division text="Konkan" value="6 "/>
+  <Division text="Nagpur " value="4 "/>
+  <Division text="Nashik " value="1 "/>
+  <Division text="Pune " value="5 "/>
+  <Division text="Amravati " value="2 "/>
+  <Division text="Aurangabad " value="3 "/>
+  <Division text="Konkan" value="6 "/>
+  <Division text="Nagpur " value="4 "/>
+  <Division text="Nashik " value="1 "/>
+  <Division text="Pune " value="5 "/>
+  <District division="2" text="Akola " value="501 "/>
+  <District division="2" text="Amravati " value="503 "/>
+  <District division="2" text="Buldana " value="500 "/>
+  <District division="2" text="Washim " value="502 "/>
+  <District division="2" text="Yavatmal " value="510 "/>
+  <District division="3" text="Aurangabad " value="515 "/>
+  <District division="3" text="beed " value="523 "/>
+  <District division="3" text="Hingoli " value="512 "/>
+  <District division="3" text="Jalna " value="514 "/>
+  <District division="3" text="Latur " value="524 "/>
+  <District division="3" text="Nanded " value="511 "/>
+  <District division="3" text="Osmanabad " value="525 "/>
+  <District division="3" text="Parbhani " value="513 "/>
+  <District division="4" text="Bhandara " value="506 "/>
+  <District division="4" text="Chandrapur " value="509 "/>
+  <District division="4" text="Gadchiroli " value="508 "/>
+  <District division="4" text="Gondiya " value="507 "/>
+  <District division="4" text="Nagpur " value="505 "/>
+  <District division="4" text="Wardha " value="504 "/>
+  <District division="5" text="Kolhapur " value="530 "/>
+  <District division="5" text="Pune " value="521 "/>
+  <District division="5" text="Sangli " value="531 "/>
+  <District division="5" text="Satara " value="527 "/>
+  <District division="5" text="Solapur " value="526 "/>
+  <District division="1" text="Ahmednagar " value="522 "/>
+  <District division="1" text="Dhule " value="498 "/>
+  <District division="1" text="Jalgaon " value="499 "/>
+  <District division="1" text="Nandurbar " value="497 "/>
+  <District division="1" text="Nashik " value="516 "/>
+  <District division="6" text="Mumbai City " value="519 "/>
+  <District division="6" text="Mumbai Suburban " value="518 "/>
+  <District division="6" text="Palghar " value="990 "/>
+  <District division="6" text="Raigarh " value="520 "/>
+  <District division="6" text="Ratnagiri " value="528 "/>
+  <District division="6" text="Sindhudurg " value="529 "/>
+  <District division="6" text="Thane " value="517 "/>
+  <District division="5" text="Kolhapur " value="530 "/>
+  <District division="5" text="Pune " value="521 "/>
+  <District division="5" text="Sangli " value="531 "/>
+  <District division="5" text="Satara " value="527 "/>
+  <District division="5" text="Solapur " value="526 "/>
+  <District division="1" text="Ahmednagar " value="522 "/>
+  <District division="1" text="Dhule " value="498 "/>
+  <District division="1" text="Jalgaon " value="499 "/>
+  <District division="1" text="Nandurbar " value="497 "/>
+  <District division="1" text="Nashik " value="516 "/>
+  <ElectionProgram district="516" text="ZILHA PARISHAD GENERAL ELECTION 21 FEB 2017 " value="23 "/>
+  <ElectionProgram district="499" text="ZILHA PARISHAD GENRAL ELECTION 2017 " value="22 "/>
+  <ElectionProgram district="526" text="ZILHA PARISHAD GENERAL ELECTION 21 FEB 2017 " value="23 "/>
+  <ElectionProgram district="521" text="ZILHA PARISHAD GENERAL ELECTION 21 FEB 2017 " value="23 "/>
+  <ElectionProgram district="531" text="ZILHA PARISHAD GENERAL ELECTION 21 FEB 2017 " value="23 "/>
+  <ElectionProgram district="498" text="Zilha Parishad Bye Election April 2017 " value="28 "/>
+  <ElectionProgram district="498" text="3 ZP bye election Date 06-04-2018 " value="132 "/>
+  <ElectionProgram district="530" text="ZILHA PARISHAD GENERAL ELECTION 21 FEB 2017 " value="23 "/>
+  <ElectionProgram district="527" text="ZILHA PARISHAD GENERAL ELECTION 21 FEB 2017 " value="23 "/>
+  <ElectionProgram district="522" text="ZILHA PARISHAD GENRAL ELECTION 2017 " value="22 "/>
+  <ElectionProgram district="522" text="20 Chandekasar General Election 2017 " value="46 "/>
+  <ElectoralDivisionNumber electionProgram="22" text="1 " value="317 "/>
+  <ElectoralDivisionNumber electionProgram="22" text="2 " value="324 "/>
+  <ElectoralDivisionNumber electionProgram="22" text="3 " value="328 "/>
+  <ElectoralDivisionNumber electionProgram="22" text="4 " value="334 "/>
+  <ElectoralDivisionNumber electionProgram="22" text="5 " value="367 "/>
+  <ElectoralDivisionNumber electionProgram="22" text="6 " value="368 "/>
+  <ElectoralDivisionNumber electionProgram="22" text="7 " value="369 "/>
+  <ElectoralDivisionNumber electionProgram="22" text="8 " value="370 "/>
+  <ElectoralDivisionNumber electionProgram="22" text="9 " value="371 "/>
+  <ElectoralDivisionNumber electionProgram="22" text="10 " value="372 "/>
+  <ElectoralDivisionNumber electionProgram="22" text="11 " value="373 "/>
+  <ElectoralDivisionNumber electionProgram="22" text="12 " value="374 "/>
+  <ElectoralDivisionNumber electionProgram="22" text="13 " value="375 "/>
+  <ElectoralDivisionNumber electionProgram="22" text="14 " value="376 "/>
+  <ElectoralDivisionNumber electionProgram="22" text="15 " value="381 "/>
+  <ElectoralDivisionNumber electionProgram="22" text="16 " value="382 "/>
+  <ElectoralDivisionNumber electionProgram="22" text="17 " value="383 "/>
+  <ElectoralDivisionNumber electionProgram="22" text="18 " value="384 "/>
+  <ElectoralDivisionNumber electionProgram="22" text="19 " value="385 "/>
+  <ElectoralDivisionNumber electionProgram="22" text="20 " value="386 "/>
+  <ElectoralDivisionNumber electionProgram="22" text="21 " value="387 "/>
+  <ElectoralDivisionNumber electionProgram="22" text="22 " value="388 "/>
+  <ElectoralDivisionNumber electionProgram="22" text="23 " value="389 "/>
+  <ElectoralDivisionNumber electionProgram="22" text="25 " value="391 "/>
+  <ElectoralDivisionNumber electionProgram="22" text="26 " value="396 "/>
+  <ElectoralDivisionNumber electionProgram="22" text="27 " value="397 "/>
+  <ElectoralDivisionNumber electionProgram="22" text="28 " value="398 "/>
+  <ElectoralDivisionNumber electionProgram="22" text="29 " value="399 "/>
+  <ElectoralDivisionNumber electionProgram="22" text="30 " value="400 "/>
+  <ElectoralDivisionNumber electionProgram="22" text="31 " value="401 "/>
+  <ElectoralDivisionNumber electionProgram="22" text="32 " value="402 "/>
+  <ElectoralDivisionNumber electionProgram="22" text="33 " value="403 "/>
+  <ElectoralDivisionNumber electionProgram="22" text="34 " value="404 "/>
+  <ElectoralDivisionNumber electionProgram="22" text="35 " value="405 "/>
+  <ElectoralDivisionNumber electionProgram="22" text="36 " value="406 "/>
+  <ElectoralDivisionNumber electionProgram="22" text="37 " value="407 "/>
+  <ElectoralDivisionNumber electionProgram="22" text="38 " value="408 "/>
+  <ElectoralDivisionNumber electionProgram="22" text="39 " value="409 "/>
+  <ElectoralDivisionNumber electionProgram="22" text="40 " value="410 "/>
+  <ElectoralDivisionNumber electionProgram="22" text="41 " value="411 "/>
+  <ElectoralDivisionNumber electionProgram="22" text="42 " value="412 "/>
+  <ElectoralDivisionNumber electionProgram="22" text="43 " value="413 "/>
+  <ElectoralDivisionNumber electionProgram="22" text="44 " value="414 "/>
+  <ElectoralDivisionNumber electionProgram="22" text="45 " value="415 "/>
+  <ElectoralDivisionNumber electionProgram="22" text="46 " value="416 "/>
+  <ElectoralDivisionNumber electionProgram="22" text="47 " value="417 "/>
+  <ElectoralDivisionNumber electionProgram="22" text="48 " value="418 "/>
+  <ElectoralDivisionNumber electionProgram="22" text="49 " value="419 "/>
+  <ElectoralDivisionNumber electionProgram="22" text="50 " value="420 "/>
+  <ElectoralDivisionNumber electionProgram="22" text="51 " value="427 "/>
+  <ElectoralDivisionNumber electionProgram="22" text="52 " value="428 "/>
+  <ElectoralDivisionNumber electionProgram="22" text="53 " value="429 "/>
+  <ElectoralDivisionNumber electionProgram="22" text="54 " value="430 "/>
+  <ElectoralDivisionNumber electionProgram="22" text="55 " value="431 "/>
+  <ElectoralDivisionNumber electionProgram="22" text="56 " value="437 "/>
+  <ElectoralDivisionNumber electionProgram="22" text="57 " value="438 "/>
+  <ElectoralDivisionNumber electionProgram="22" text="58 " value="439 "/>
+  <ElectoralDivisionNumber electionProgram="22" text="59 " value="440 "/>
+  <ElectoralDivisionNumber electionProgram="22" text="60 " value="441 "/>
+  <ElectoralDivisionNumber electionProgram="22" text="61 " value="443 "/>
+  <ElectoralDivisionNumber electionProgram="22" text="62 " value="446 "/>
+  <ElectoralDivisionNumber electionProgram="22" text="63 " value="449 "/>
+  <ElectoralDivisionNumber electionProgram="22" text="64 " value="454 "/>
+  <ElectoralDivisionNumber electionProgram="22" text="65 " value="455 "/>
+  <ElectoralDivisionNumber electionProgram="22" text="66 " value="459 "/>
+  <ElectoralDivisionNumber electionProgram="22" text="67 " value="463 "/>
+  <ElectoralDivisionNumber electionProgram="22" text="24 " value="3673 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="1 " value="3965 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="2 " value="3966 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="3 " value="3967 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="4 " value="3968 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="5 " value="3969 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="6 " value="3970 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="7 " value="3971 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="8 " value="3972 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="9 " value="3973 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="10 " value="3974 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="11 " value="3975 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="12 " value="3976 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="13 " value="3977 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="14 " value="3978 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="15 " value="3979 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="16 " value="3980 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="17 " value="3981 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="18 " value="3982 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="19 " value="3983 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="20 " value="3984 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="21 " value="3985 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="22 " value="3986 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="23 " value="3987 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="24 " value="3988 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="25 " value="3989 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="26 " value="3990 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="27 " value="3991 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="28 " value="3992 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="29 " value="3993 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="30 " value="3994 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="31 " value="3995 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="32 " value="3996 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="33 " value="3997 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="34 " value="3998 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="35 " value="3999 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="36 " value="4000 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="37 " value="4001 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="38 " value="4002 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="39 " value="4003 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="40 " value="4004 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="41 " value="4005 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="42 " value="4006 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="43 " value="4007 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="44 " value="4008 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="45 " value="4009 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="46 " value="4010 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="47 " value="4011 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="48 " value="4012 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="49 " value="4013 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="50 " value="4014 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="51 " value="4015 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="52 " value="4016 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="53 " value="4017 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="54 " value="4018 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="55 " value="4019 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="56 " value="4020 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="57 " value="4021 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="58 " value="4022 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="59 " value="4023 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="60 " value="4024 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="61 " value="4025 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="62 " value="4026 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="63 " value="4027 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="64 " value="4028 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="65 " value="4029 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="66 " value="4030 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="67 " value="4031 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="68 " value="4032 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="69 " value="4033 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="70 " value="4034 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="71 " value="4035 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="72 " value="4036 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="73 " value="4037 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="1 " value="5004 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="2 " value="5005 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="3 " value="5006 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="4 " value="5007 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="5 " value="5008 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="6 " value="5009 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="7 " value="5010 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="8 " value="5011 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="9 " value="5012 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="10 " value="5013 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="11 " value="5014 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="12 " value="5015 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="13 " value="5016 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="14 " value="5017 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="15 " value="5018 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="16 " value="5019 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="17 " value="5020 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="18 " value="5021 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="19 " value="5022 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="20 " value="5023 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="21 " value="5024 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="22 " value="5025 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="23 " value="5026 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="24 " value="5027 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="25 " value="5028 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="26 " value="5029 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="27 " value="5030 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="28 " value="5031 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="29 " value="5032 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="30 " value="5033 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="31 " value="5034 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="32 " value="5035 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="33 " value="5036 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="34 " value="5037 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="35 " value="5038 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="36 " value="5039 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="37 " value="5040 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="38 " value="5041 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="39 " value="5042 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="40 " value="5043 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="41 " value="5044 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="42 " value="5045 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="43 " value="5046 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="44 " value="5047 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="45 " value="5048 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="46 " value="5049 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="47 " value="5050 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="48 " value="5051 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="49 " value="5052 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="50 " value="5053 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="51 " value="5054 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="52 " value="5055 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="53 " value="5056 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="54 " value="5057 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="55 " value="5058 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="56 " value="5059 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="57 " value="5060 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="58 " value="5061 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="59 " value="5062 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="60 " value="5063 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="61 " value="5064 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="62 " value="5065 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="63 " value="5066 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="64 " value="5067 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="65 " value="5068 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="66 " value="5069 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="67 " value="5070 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="68 " value="5071 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="1 " value="4175 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="2 " value="4176 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="3 " value="4177 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="4 " value="4178 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="5 " value="4179 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="6 " value="4180 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="7 " value="4181 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="8 " value="4182 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="9 " value="4183 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="10 " value="4184 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="11 " value="4185 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="12 " value="4186 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="13 " value="4187 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="14 " value="4188 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="15 " value="4189 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="16 " value="4190 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="17 " value="4191 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="18 " value="4192 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="19 " value="4193 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="20 " value="4194 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="21 " value="4195 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="22 " value="4196 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="23 " value="4197 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="24 " value="4198 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="25 " value="4199 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="26 " value="4200 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="27 " value="4201 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="28 " value="4202 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="29 " value="4203 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="30 " value="4204 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="31 " value="4205 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="32 " value="4206 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="33 " value="4207 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="34 " value="4208 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="35 " value="4209 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="36 " value="4210 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="37 " value="4211 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="38 " value="4212 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="39 " value="4213 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="40 " value="4214 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="41 " value="4215 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="42 " value="4216 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="43 " value="4217 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="44 " value="4218 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="45 " value="4219 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="46 " value="4220 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="47 " value="4221 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="48 " value="4222 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="49 " value="4223 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="50 " value="4224 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="51 " value="4225 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="52 " value="4226 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="53 " value="4227 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="54 " value="4228 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="55 " value="4229 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="56 " value="4230 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="57 " value="4231 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="58 " value="4232 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="59 " value="4233 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="60 " value="4234 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="61 " value="4235 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="62 " value="4236 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="63 " value="4237 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="64 " value="4238 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="65 " value="4239 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="66 " value="4240 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="67 " value="4241 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="68 " value="4242 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="69 " value="4243 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="70 " value="4244 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="71 " value="4245 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="72 " value="4246 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="73 " value="4247 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="74 " value="4248 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="75 " value="4249 "/>
+  <ElectoralDivisionNumber electionProgram="28" text="53 " value="5224 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="1 " value="4644 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="2 " value="4645 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="3 " value="4646 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="4 " value="4647 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="5 " value="4648 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="6 " value="4649 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="7 " value="4650 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="8 " value="4651 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="9 " value="4652 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="10 " value="4653 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="11 " value="4654 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="12 " value="4655 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="13 " value="4656 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="14 " value="4657 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="15 " value="4658 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="16 " value="4659 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="17 " value="4660 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="18 " value="4661 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="19 " value="4662 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="20 " value="4663 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="21 " value="4664 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="22 " value="4665 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="23 " value="4666 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="24 " value="4667 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="25 " value="4668 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="26 " value="4669 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="27 " value="4670 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="28 " value="4671 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="29 " value="4672 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="30 " value="4673 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="31 " value="4674 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="32 " value="4675 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="33 " value="4676 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="34 " value="4677 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="35 " value="4678 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="36 " value="4679 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="37 " value="4680 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="38 " value="4681 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="39 " value="4682 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="40 " value="4683 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="41 " value="4684 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="42 " value="4685 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="43 " value="4686 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="44 " value="4687 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="45 " value="4688 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="46 " value="4689 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="47 " value="4690 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="48 " value="4691 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="49 " value="4692 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="50 " value="4693 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="51 " value="4694 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="52 " value="4695 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="53 " value="4696 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="54 " value="4697 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="55 " value="4698 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="56 " value="4699 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="57 " value="4700 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="58 " value="4701 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="59 " value="4702 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="60 " value="4703 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="1 " value="3608 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="2 " value="3609 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="3 " value="3610 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="4 " value="3611 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="5 " value="3612 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="6 " value="3613 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="7 " value="3614 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="8 " value="3615 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="9 " value="3616 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="10 " value="3617 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="11 " value="3618 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="12 " value="3619 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="13 " value="3620 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="14 " value="3621 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="15 " value="3622 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="16 " value="3623 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="17 " value="3624 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="18 " value="3625 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="19 " value="3626 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="20 " value="3627 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="21 " value="3628 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="22 " value="3629 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="23 " value="3630 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="24 " value="3631 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="25 " value="3632 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="26 " value="3633 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="27 " value="3634 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="28 " value="3635 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="29 " value="3636 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="30 " value="3637 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="31 " value="3638 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="32 " value="3639 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="33 " value="3640 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="34 " value="3641 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="35 " value="3642 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="36 " value="3643 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="37 " value="3644 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="38 " value="3645 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="39 " value="3646 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="40 " value="3647 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="41 " value="3648 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="42 " value="3649 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="43 " value="3650 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="44 " value="3651 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="45 " value="3652 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="46 " value="3653 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="47 " value="3654 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="48 " value="3655 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="49 " value="3656 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="50 " value="3657 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="51 " value="3658 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="52 " value="3659 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="53 " value="3660 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="54 " value="3661 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="55 " value="3662 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="56 " value="3663 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="57 " value="3664 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="58 " value="3665 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="59 " value="3667 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="60 " value="3668 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="61 " value="3669 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="62 " value="3670 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="63 " value="3671 "/>
+  <ElectoralDivisionNumber electionProgram="23" text="64 " value="3672 "/>
+  <ElectoralDivisionNumber electionProgram="22" text="1 " value="1736 "/>
+  <ElectoralDivisionNumber electionProgram="22" text="2 " value="1737 "/>
+  <ElectoralDivisionNumber electionProgram="22" text="3 " value="1738 "/>
+  <ElectoralDivisionNumber electionProgram="22" text="4 " value="1739 "/>
+  <ElectoralDivisionNumber electionProgram="22" text="5 " value="1740 "/>
+  <ElectoralDivisionNumber electionProgram="22" text="6 " value="1741 "/>
+  <ElectoralDivisionNumber electionProgram="22" text="7 " value="1742 "/>
+  <ElectoralDivisionNumber electionProgram="22" text="8 " value="1743 "/>
+  <ElectoralDivisionNumber electionProgram="22" text="9 " value="1744 "/>
+  <ElectoralDivisionNumber electionProgram="22" text="10 " value="1745 "/>
+  <ElectoralDivisionNumber electionProgram="22" text="11 " value="1746 "/>
+  <ElectoralDivisionNumber electionProgram="22" text="12 " value="1747 "/>
+  <ElectoralDivisionNumber electionProgram="22" text="13 " value="1748 "/>
+  <ElectoralDivisionNumber electionProgram="22" text="14 " value="1749 "/>
+  <ElectoralDivisionNumber electionProgram="22" text="15 " value="1750 "/>
+  <ElectoralDivisionNumber electionProgram="22" text="16 " value="1751 "/>
+  <ElectoralDivisionNumber electionProgram="22" text="17 " value="1752 "/>
+  <ElectoralDivisionNumber electionProgram="22" text="18 " value="1753 "/>
+  <ElectoralDivisionNumber electionProgram="22" text="19 " value="1754 "/>
+  <ElectoralDivisionNumber electionProgram="22" text="21 " value="1756 "/>
+  <ElectoralDivisionNumber electionProgram="22" text="22 " value="1757 "/>
+  <ElectoralDivisionNumber electionProgram="22" text="23 " value="1758 "/>
+  <ElectoralDivisionNumber electionProgram="22" text="24 " value="1759 "/>
+  <ElectoralDivisionNumber electionProgram="22" text="25 " value="1760 "/>
+  <ElectoralDivisionNumber electionProgram="22" text="26 " value="1761 "/>
+  <ElectoralDivisionNumber electionProgram="22" text="27 " value="1762 "/>
+  <ElectoralDivisionNumber electionProgram="22" text="28 " value="1763 "/>
+  <ElectoralDivisionNumber electionProgram="22" text="29 " value="1764 "/>
+  <ElectoralDivisionNumber electionProgram="22" text="30 " value="1765 "/>
+  <ElectoralDivisionNumber electionProgram="22" text="31 " value="1766 "/>
+  <ElectoralDivisionNumber electionProgram="22" text="32 " value="1767 "/>
+  <ElectoralDivisionNumber electionProgram="22" text="33 " value="1768 "/>
+  <ElectoralDivisionNumber electionProgram="22" text="34 " value="1769 "/>
+  <ElectoralDivisionNumber electionProgram="22" text="35 " value="1770 "/>
+  <ElectoralDivisionNumber electionProgram="22" text="36 " value="1771 "/>
+  <ElectoralDivisionNumber electionProgram="22" text="37 " value="1772 "/>
+  <ElectoralDivisionNumber electionProgram="22" text="38 " value="1773 "/>
+  <ElectoralDivisionNumber electionProgram="22" text="39 " value="1774 "/>
+  <ElectoralDivisionNumber electionProgram="22" text="40 " value="1775 "/>
+  <ElectoralDivisionNumber electionProgram="22" text="41 " value="1776 "/>
+  <ElectoralDivisionNumber electionProgram="22" text="42 " value="1777 "/>
+  <ElectoralDivisionNumber electionProgram="22" text="43 " value="1778 "/>
+  <ElectoralDivisionNumber electionProgram="22" text="44 " value="1779 "/>
+  <ElectoralDivisionNumber electionProgram="22" text="45 " value="1780 "/>
+  <ElectoralDivisionNumber electionProgram="22" text="46 " value="1781 "/>
+  <ElectoralDivisionNumber electionProgram="22" text="47 " value="1782 "/>
+  <ElectoralDivisionNumber electionProgram="22" text="48 " value="1783 "/>
+  <ElectoralDivisionNumber electionProgram="22" text="49 " value="1784 "/>
+  <ElectoralDivisionNumber electionProgram="22" text="50 " value="1785 "/>
+  <ElectoralDivisionNumber electionProgram="22" text="52 " value="1787 "/>
+  <ElectoralDivisionNumber electionProgram="22" text="53 " value="1788 "/>
+  <ElectoralDivisionNumber electionProgram="22" text="54 " value="1789 "/>
+  <ElectoralDivisionNumber electionProgram="22" text="55 " value="1790 "/>
+  <ElectoralDivisionNumber electionProgram="22" text="56 " value="1791 "/>
+  <ElectoralDivisionNumber electionProgram="22" text="57 " value="1792 "/>
+  <ElectoralDivisionNumber electionProgram="22" text="58 " value="1793 "/>
+  <ElectoralDivisionNumber electionProgram="22" text="59 " value="1794 "/>
+  <ElectoralDivisionNumber electionProgram="22" text="60 " value="1795 "/>
+  <ElectoralDivisionNumber electionProgram="22" text="61 " value="1796 "/>
+  <ElectoralDivisionNumber electionProgram="22" text="62 " value="1797 "/>
+  <ElectoralDivisionNumber electionProgram="22" text="63 " value="1798 "/>
+  <ElectoralDivisionNumber electionProgram="22" text="64 " value="1799 "/>
+  <ElectoralDivisionNumber electionProgram="22" text="65 " value="1800 "/>
+  <ElectoralDivisionNumber electionProgram="22" text="66 " value="1801 "/>
+  <ElectoralDivisionNumber electionProgram="22" text="67 " value="1802 "/>
+  <ElectoralDivisionNumber electionProgram="22" text="68 " value="1803 "/>
+  <ElectoralDivisionNumber electionProgram="22" text="69 " value="1804 "/>
+  <ElectoralDivisionNumber electionProgram="22" text="70 " value="1805 "/>
+  <ElectoralDivisionNumber electionProgram="22" text="71 " value="1806 "/>
+  <ElectoralDivisionNumber electionProgram="22" text="72 " value="1807 "/>
+  <ElectoralDivisionNumber electionProgram="22" text="73 " value="1808 "/>
+  <ElectoralDivisionNumber electionProgram="22" text="51 " value="2076 "/>
+  <CANDIDATE_DATA ElectoralDivisionID="75" FULLNAME="BODAKE DHANASHRI YUVARAJ " NameofElectoralDivision="Bawda -Lakhewadi  " RegistrationNo="ZP24296-521-0000-24296 "/>
+  <CANDIDATE_DATA ElectoralDivisionID="75" FULLNAME="BODARE MONALI SACHIN " NameofElectoralDivision="Bawda -Lakhewadi  " RegistrationNo="ZP27244-521-0000-27244 "/>
+  <CANDIDATE_DATA ElectoralDivisionID="75" FULLNAME="GHOGARE VANITA ASHOK " NameofElectoralDivision="Bawda -Lakhewadi  " RegistrationNo="ZP21080-521-0000-21080 "/>
+  <CANDIDATE_DATA ElectoralDivisionID="75" FULLNAME="KAMBALE JANPRIYA RAKESH " NameofElectoralDivision="Bawda -Lakhewadi  " RegistrationNo="ZP24572-521-0000-24572 "/>
+  <CANDIDATE_DATA ElectoralDivisionID="75" FULLNAME="PATIL RATNAPRABHA SHAHAJIRAO " NameofElectoralDivision="Bawda -Lakhewadi  " RegistrationNo="ZP30063-521-0000-30063 "/>
+  <CANDIDATE_DATA ElectoralDivisionID="75" FULLNAME="TORANE AMRAPLI UMAKANT " NameofElectoralDivision="Bawda -Lakhewadi  " RegistrationNo="ZP27514-521-0000-27514 "/>
+  <CANDIDATE_DATA ElectoralDivisionID="53" FULLNAME="BHIL NARMADABAI VISHNU " NameofElectoralDivision="Shirud " RegistrationNo="ZP31987-498-0000-31987 "/>
+  <CANDIDATE_DATA ElectoralDivisionID="73" FULLNAME="GHOLAP VANDANADEVI AVINASH " NameofElectoralDivision="Kalas -Walchandnagar  " RegistrationNo="ZP31639-521-0000-31639 "/>
+  <CANDIDATE_DATA ElectoralDivisionID="73" FULLNAME="KHARTODE SHAILAJA RAMESH " NameofElectoralDivision="Kalas -Walchandnagar  " RegistrationNo="ZP21953-521-0000-21953 "/>
+  <CANDIDATE_DATA ElectoralDivisionID="73" FULLNAME="MISAL NILIMA KIRAN " NameofElectoralDivision="Kalas -Walchandnagar  " RegistrationNo="ZP31758-521-0000-31758 "/>
+  <CANDIDATE_DATA ElectoralDivisionID="73" FULLNAME="PATIL SUMITRA GIRISH " NameofElectoralDivision="Kalas -Walchandnagar  " RegistrationNo="ZP27219-521-0000-27219 "/>
+  <CANDIDATE_DATA ElectoralDivisionID="73" FULLNAME="PATIL VAISHALI PRATAPRAO " NameofElectoralDivision="Kalas -Walchandnagar  " RegistrationNo="ZP19650-521-0000-19650 "/>
+  <CANDIDATE_DATA ElectoralDivisionID="73" FULLNAME="VANSALE KOMAL SURAJ " NameofElectoralDivision="Kalas -Walchandnagar  " RegistrationNo="ZP19076-521-0000-19076 "/>
+  <CANDIDATE_DATA ElectoralDivisionID="72" FULLNAME="GOSAVI ASHA SHIVAJI " NameofElectoralDivision="Chas " RegistrationNo="ZP28885-516-0000-28885 "/>
+  <CANDIDATE_DATA ElectoralDivisionID="72" FULLNAME="JAYBHAVE VAISHALI RAMDAS " NameofElectoralDivision="Chas " RegistrationNo="ZP26564-516-0000-26564 "/>
+  <CANDIDATE_DATA ElectoralDivisionID="72" FULLNAME="SANGALE SHITAL UDAY " NameofElectoralDivision="Chas " RegistrationNo="ZP23343-516-0000-23343 "/>
+  <CANDIDATE_DATA ElectoralDivisionID="74" FULLNAME="BHAGYAWANT SACHIN JANARDAN " NameofElectoralDivision="Sansar -Lasurne  " RegistrationNo="ZP24239-521-0000-24239 "/>
+  <CANDIDATE_DATA ElectoralDivisionID="74" FULLNAME="BHOSALE SAGAR MALHARI " NameofElectoralDivision="Sansar -Lasurne  " RegistrationNo="ZP24362-521-0000-24362 "/>
+  <CANDIDATE_DATA ElectoralDivisionID="74" FULLNAME="MADAKE JAGDISH MARUTI " NameofElectoralDivision="Sansar -Lasurne  " RegistrationNo="ZP31532-521-0000-31532 "/>
+  <CANDIDATE_DATA ElectoralDivisionID="74" FULLNAME="PATIL YOGESH BABASAHEB " NameofElectoralDivision="Sansar -Lasurne  " RegistrationNo="ZP21472-521-0000-21472 "/>
+  <CANDIDATE_DATA ElectoralDivisionID="74" FULLNAME="SHAHANE PANKAJ VILAS " NameofElectoralDivision="Sansar -Lasurne  " RegistrationNo="ZP31840-521-0000-31840 "/>
+  <CANDIDATE_DATA ElectoralDivisionID="73" FULLNAME="HARAK SHILABAI PRABHAKAR " NameofElectoralDivision="Thangaon " RegistrationNo="ZP26025-516-0000-26025 "/>
+  <CANDIDATE_DATA ElectoralDivisionID="73" FULLNAME="SHINDE VANITA NAMDEV " NameofElectoralDivision="Thangaon " RegistrationNo="ZP21411-516-0000-21411 "/>
+  <CANDIDATE_DATA ElectoralDivisionID="24" FULLNAME="AMALE DNYANESHWAR VITTHAL " NameofElectoralDivision="Sakegaon-Kandari " RegistrationNo="ZP12801-499-0000-12801 "/>
+  <CANDIDATE_DATA ElectoralDivisionID="24" FULLNAME="BHOLE CHUDAMAN GOPAL " NameofElectoralDivision="Sakegaon-Kandari " RegistrationNo="ZP13245-499-0000-13245 "/>
+  <CANDIDATE_DATA ElectoralDivisionID="24" FULLNAME="JANGALE LALARAM ARJUN " NameofElectoralDivision="Sakegaon-Kandari " RegistrationNo="ZP11433-499-0000-11433 "/>
+  <CANDIDATE_DATA ElectoralDivisionID="24" FULLNAME="MORE YESHWANT TULSHIRAM " NameofElectoralDivision="Sakegaon-Kandari " RegistrationNo="ZP9876-499-0000-09876 "/>
+  <CANDIDATE_DATA ElectoralDivisionID="24" FULLNAME="NARKHEDE HARSHAL VASANT " NameofElectoralDivision="Sakegaon-Kandari " RegistrationNo="ZP3511-499-0000-03511 "/>
+  <CANDIDATE_DATA ElectoralDivisionID="24" FULLNAME="PATIL BHUSHAN BABURAO " NameofElectoralDivision="Sakegaon-Kandari " RegistrationNo="ZP16914-499-0000-16914 "/>
+  <CANDIDATE_DATA ElectoralDivisionID="24" FULLNAME="PATIL RAVINDRA NANA " NameofElectoralDivision="Sakegaon-Kandari " RegistrationNo="ZP16729-499-0000-16729 "/>
+  <CANDIDATE_DATA ElectoralDivisionID="70" FULLNAME="KAMBALE BAPU GORAKH " NameofElectoralDivision="KULDHARAN " RegistrationNo="ZP18154-522-0000-18154 "/>
+  <CANDIDATE_DATA ElectoralDivisionID="70" FULLNAME="KAMBLE VIKRAM ARJUN " NameofElectoralDivision="KULDHARAN " RegistrationNo="ZP13259-522-0000-13259 "/>
+  <CANDIDATE_DATA ElectoralDivisionID="70" FULLNAME="PARHAR UMESH BHAGWAN " NameofElectoralDivision="KULDHARAN " RegistrationNo="ZP13996-522-0000-13996 "/>
+  <CANDIDATE_DATA ElectoralDivisionID="70" FULLNAME="SABLE VALMIK NARAYAN " NameofElectoralDivision="KULDHARAN " RegistrationNo="ZP5634-522-0000-05634 "/>
+  <CANDIDATE_DATA ElectoralDivisionID="70" FULLNAME="SHINDE MAHENDRA DADA " NameofElectoralDivision="KULDHARAN " RegistrationNo="ZP7713-522-0000-07713 "/>
+  <CANDIDATE_DATA ElectoralDivisionID="71" FULLNAME="GHODKE KANTILAL DADA " NameofElectoralDivision="RASHIN " RegistrationNo="ZP13500-522-0000-13500 "/>
+  <CANDIDATE_DATA ElectoralDivisionID="71" FULLNAME="LONDHE MADHUKAR YASHWANT " NameofElectoralDivision="RASHIN " RegistrationNo="ZP6508-522-0000-06508 "/>
+  <CANDIDATE_DATA ElectoralDivisionID="71" FULLNAME="SALVE BHIMRAO RAMCHANDRA " NameofElectoralDivision="RASHIN " RegistrationNo="ZP12314-522-0000-12314 "/>
+  <CANDIDATE_DATA ElectoralDivisionID="71" FULLNAME="SALVE DHANRAJ NARAYAN " NameofElectoralDivision="RASHIN " RegistrationNo="ZP9464-522-0000-09464 "/>
+  <CANDIDATE_DATA ElectoralDivisionID="71" FULLNAME="SHINDE SURESH BABURAO " NameofElectoralDivision="RASHIN " RegistrationNo="ZP13941-522-0000-13941 "/>
+  <CANDIDATE_DATA ElectoralDivisionID="71" FULLNAME="SONAWANE ISHWAR PANDURANG " NameofElectoralDivision="RASHIN " RegistrationNo="ZP12562-522-0000-12562 "/>
+  <CANDIDATE_DATA ElectoralDivisionID="71" FULLNAME="SONWANE ASHOK SITARAM " NameofElectoralDivision="RASHIN " RegistrationNo="ZP5538-522-0000-05538 "/>
+</Data>
